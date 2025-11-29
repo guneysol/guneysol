@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guney</h1>
-<h3 align="center">DevEx / Software Engineer Specializing in Solana</h3>
+<h3 align="center">Software Engineer Specializing in Solana</h3>
 
 - 🔭 Currently, I am working at [Helius](https://www.helius.dev/) and contributing to the Solana ecosystem.
 - 🌱 I am interested in blockchain, fintech, and artificial intelligence.
